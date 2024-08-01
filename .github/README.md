@@ -5,30 +5,30 @@
 </h2>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/e51819c35ac9b76037fce.jpg">
+  <img src="https://te.legra.ph/file/c1e44824e6b8d41def80c.jpg">
 </p>
 
 <p align="center">
-<a href="https://github.com/FlashXMusic/stargazers"><img src="https://img.shields.io/github/stars/FlashXMusic/FlashXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/FlashXMusic/FlashXMusic/network/members"> <img src="https://img.shields.io/github/forks/FlashXMusic/FlashXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/FlashXMusic/FlashXMusic/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/FlashXMusic/stargazers"><img src="https://img.shields.io/github/stars/FlashXMusic/Flash2ndXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/FlashXMusic/Flash2ndXMusic/network/members"> <img src="https://img.shields.io/github/forks/FlashXMusic/Flash2ndXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/FlashXMusic/Flash2ndXMusic/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/FlashXMusic/FlashXMusic/commits/FlashXMusic"> <img src="https://img.shields.io/github/last-commit/FlashXMusic/FlashXMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/FlashXMusic/Flash2ndXMusic/commits/FlashXMusic"> <img src="https://img.shields.io/github/last-commit/FlashXMusic/Flash2ndXMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
 ━━━━━━━━━━━━━━━━━━━━
 </h2>
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=🫧𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙷𝙴𝚁𝙾𝙺𝚄🫧;🫧+𝙽𝙾+𝙷𝙴𝚁𝙾𝙺𝚄+𝙱𝙰𝙽+𝙸𝚂𝚂𝚄𝙴+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+𝙳𝙴𝙿𝙻𝙾𝚈+🫧+𝙿𝚁𝙴𝚂𝙴𝙽𝚃;🫧+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+nhoetkyaitekaunglayyy">
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙷𝙴𝚁𝙾𝙺𝚄♦;📡+𝙽𝙾+𝙷𝙴𝚁𝙾𝙺𝚄+𝙱𝙰𝙽+𝙸𝚂𝚂𝚄𝙴+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+𝙳𝙴𝙿𝙻𝙾𝚈+📍+𝙿𝚁𝙴𝚂𝙴𝙽𝚃;❤️+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+ꜱᴀꜱᴜᴋᴇ ✘ ᴍᴜꜱɪᴄ🔥">
 
 <p align="center">
-  <img src="https://te.legra.ph/file/e51819c35ac9b76037fce.jpg">
+  <img src="https://te.legra.ph/file/18e61e800e05062b61b83.jpg">
 </p>
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/FlashXMusic/FlashXMusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/FlashXMusic/Flash2ndXMusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 </p>
 
@@ -38,7 +38,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/FlashXMusic/FlashXMusic/blob/master/sample.env)
+- Get your [Necessary Variables](https://github.com/FlashXMusic/Flash2ndXMusic/blob/master/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
@@ -50,7 +50,7 @@
 - Install Node js by :
 `curl -fssL https://deb.nodesource.com/setup_19.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
 - Clone the repository by :
-`git clone https://github.com/FlashXMusic/FlashXMusic && cd FlashXMusic`
+`git clone https://github.com/FlashXMusic/Flash2ndXMusic && cd Flash2ndXMusic`
 - Install requirements by :
 `pip3 install -U -r requirements.txt`
 - Fill your variables in the env by :
