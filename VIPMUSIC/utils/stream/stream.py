@@ -28,6 +28,9 @@ from VIPMUSIC.utils.exceptions import AssistantErr
 from VIPMUSIC.utils.inline import aq_markup, close_markup, stream_markup, stream_markup2
 from VIPMUSIC.utils.pastebin import VIPBin
 from VIPMUSIC.utils.stream.queue import put_queue, put_queue_index
+from youtubesearchpython.__future__ import VideosSearch
+from VIPMUSIC.utils.thumbnails import get_thumb
+from config import YOUTUBE_IMG_URL
 
 
 async def stream(
